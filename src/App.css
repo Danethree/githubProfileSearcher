@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  background-color: #282c34;
+  color: white;
+  margin: 0px auto;
+
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+}
+#myH1 {
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 0px;
+}
+.myH2 {
+  text-align: left;
+  padding: 10px;
+  font-size: x-large;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.SpanImage {
+  margin-top: 30px;
+  padding-bottom: 5px;
+}
+.image {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+.description {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+  font-size: larger;
+}
+.nameOfUser {
+  padding-top: 10px;
+  font-size: x-large;
+}
+.localeDescription {
+  font-size: larger;
+}
