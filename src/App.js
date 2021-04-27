@@ -34,11 +34,8 @@ const [userData,setUserData] = useState()
                 </div>
 
                 <p className = "description"> Search any github user and see your photo, username and website.<br></br>
-                      You only need to digit the user name on field. 
-                      <br/>
-                      <br/>
-                      After this, check below the photo, location and  user name of github user.
-                      </p>
+                      You only need to digit the user name on field below. </p>
+                     
                   
                 <div className = "form-group">
                     <form onSubmit = {handleSubmit}>
